@@ -2,7 +2,7 @@
 - 👀 I’m interested in network support and cybersecurity.
 - 🌱 I’m currently learning Cybersecurity.
 - 💞️ I’m looking to collaborate on Cybersecurity.
-- 📫 How to reach me nunezyanceys95@outlook.com
+- 📫 How to reach me
 - ⚡ Fun fact: A fun fact about me is that I have a passion for cybersecurity and network management. I enjoy staying up-to-date with the latest trends in cybersecurity and often participate in online hacking challenges and capture-the-flag competitions to sharpen my skills and knowledge.
 
 <!---
